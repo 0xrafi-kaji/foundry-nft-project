@@ -45,7 +45,7 @@ make deploy
 
 ## Testing
 
-Run all test in one command :
+Run all tests using one command.
 
 ```
 forge test
